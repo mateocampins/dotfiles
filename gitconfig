@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mateo.campins@gmail.com
+	name = Mateo Campins
